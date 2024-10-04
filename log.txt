@@ -1,0 +1,4 @@
+q1: batch support?
+q2: particle with type,type embedding
+q3: from target structure to data how?
+q4: tune langiveain
